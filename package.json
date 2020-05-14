@@ -1,0 +1,39 @@
+{
+  "name": "mapbox_test_vue",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": "~8.12.0"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "body-scroll-lock": "^2.6.4",
+    "core-js": "^2.6.5",
+    "mapbox-gl": "^1.6.0",
+    "moment": "^2.24.0",
+    "register-service-worker": "^1.6.2",
+    "vue": "^2.6.10",
+    "vue-read-more": "^1.1.1",
+    "vue-select": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.11.0",
+    "@vue/cli-plugin-pwa": "^3.11.0",
+    "@vue/cli-service": "^3.11.0",
+    "sass": "^1.18.0",
+    "sass-loader": "^7.1.0",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "place_type": "Type of place",
+    "alternative_names": "Alternative names",
+    "read_more": "read more",
+    "read_less": "show less",
+    "filter": {
+        "time": "Time period",
+        "place": "Place name",
+        "place_type": "Type of place",
+        "file_type": "Type of media"
+    },
+
+    "image_info": {
+        "description": "Description",
+        "place": "Place",
+        "period": "Period",
+        "type_of_subject": "Type of subject",
+        "collection": "Collection",
+        "year_created": "Year created",
+        "author": "Author",
+        "copyright": "Copyright",
+        "easydb_id": "EasyDB ID",
+        "related_media": "Related media"
+    }
+}

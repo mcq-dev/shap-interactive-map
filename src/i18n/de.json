@@ -1,0 +1,25 @@
+{
+    "place_type": "Art des Ortes",
+    "alternative_names": "Alternative Namen",
+    "read_more": "Weiterlesen",
+    "read_less": "Einklappen",
+    "filter": {
+        "time": "Zeitraum",
+        "place": "Ort",
+        "place_type": "Art des Ortes",
+        "file_type": "Medien Art"
+    },
+
+    "image_info": {
+        "description": "Beschreibung",
+        "place": "Ort",
+        "period": "Epoche",
+        "type_of_subject": "Art des Inhalts",
+        "collection": "Sammlung",
+        "year_created": "Erstellungsjahr",
+        "author": "Urheber",
+        "copyright": "Copyright",
+        "easydb_id": "EasyDB ID",
+        "related_media": "Verwandte Medien"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "place_type": "نوع المكان",
+    "alternative_names": "أسماء بديلة",
+    "read_more": "قراءة المزيد",
+    "read_less": "أقرأ أقل",
+    "filter": {
+        "time": "زمن",
+        "place": "مكان",
+        "place_type": "نوع المكان",
+        "file_type": "نوع الوسائط"
+    },
+
+    "image_info": {
+        "description": "وصف",
+        "place": "مكان",
+        "period": "فترة",
+        "type_of_subject": "نوع الموضوع",
+        "collection": "مجموعة",
+        "year_created": "سنة الانشاء",
+        "author": "مؤلف",
+        "copyright": "حقوق النشر",
+        "easydb_id": "Easydb id",
+        "related_media": "الملفات ذات الصلة"
+    }
+}
